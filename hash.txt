@@ -1,0 +1,20 @@
+################################
+# Malware sample MD5 list for  #
+# VirusShare_00000.zip         #
+# http://VirusShare.com        #
+# Twitter: @VXShare            #
+################################
+79ee66308cc5459c75752ede5a6a38e8
+9390c3e1001d5231795482d2e00026e3
+cd8b49edac751c6205e5a3ed1a3bacfa
+8a802da32da7bbc2a1a2e5ec7a2d9961
+2f0f35cc352b5d6fee61ab69be50738f
+4369e529fbd4ebce9670dcd60c2bd385
+d4a1178e3ba3f11ce00fd2d93cbce2cb
+8659cf229ce052759de8d3975003fbba
+bee4401d43deb3109092e16935eeb197
+7e7cb5b2c9f00e884eea257742447dfd
+13fa50800ee2219b9af0a4c0e16ba2f0
+ef6655cef2f5fa72b28fa9d0455776ac
+b25d47dcbfc7a207e0fa8a60971439b6
+0a39fcb54b2beda423e3d365683ac4df
